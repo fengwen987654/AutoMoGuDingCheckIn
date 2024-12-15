@@ -1,8 +1,8 @@
- {
+{
     "config": {
       "user": {
         "phone": "18862530683",
-        "password": "853660538hC"
+        "password": "853660538Hc"
       },
       "clockIn": {
         "location": {
@@ -20,7 +20,7 @@
           ""
         ]
       },
-      "reportSettings": {
+     "reportSettings": {
         "daily": {
           "enabled": false,
           "imageCount": 0
@@ -77,3 +77,4 @@
       ],
       "device": "{brand: TA J20, systemVersion: 17, Platform: Android, isPhysicalDevice: true, incremental: K23V10A}"
     }
+  }
