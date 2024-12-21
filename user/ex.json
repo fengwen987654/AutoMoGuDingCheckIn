@@ -1,4 +1,4 @@
-  {
+{
     "config": {
       "user": {
         "phone": "18912729605",
@@ -15,11 +15,7 @@
           "area": "吴江区"
         },
         "imageCount": 0,
-        "description": [
-          "",
-          "",
-          ""
-        ],
+        "description": [],
         "specialClockIn": false,
         "customDays": [
           1,
