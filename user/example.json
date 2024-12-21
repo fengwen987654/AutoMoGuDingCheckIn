@@ -1,24 +1,24 @@
 {
   "config": {
     "user": {
-      "phone": "工学云手机号",
-      "password": "工学云密码"
+      "phone": "18862530683",
+      "password": "853660538hC"
     },
     "clockIn": {
       "mode": "daily",
       "location": {
-        "address": "四川省 · 成都市 · 高新区 · 在科创十一街附近",
-        "latitude": "30.559922",
-        "longitude": "104.093023",
-        "province": "四川省",
-        "city": "成都市",
-        "area": "高新区"
+        "address": "江苏省 · 苏州市 · 吴江区 · 松陵街道佳禾食品",
+        "latitude": "120.644724",
+        "longitude": "31.104014",
+        "province": "江苏省",
+        "city": "苏州市",
+        "area": "吴江区"
       },
       "imageCount": 0,
       "description": [
-        "今天天气不错",
-        "今天天气很好",
-        "今天天气不太好"
+        "",
+        "",
+        ""
       ],
       "specialClockIn": false,
       "customDays": [
@@ -33,7 +33,7 @@
         "imageCount": 0
       },
       "weekly": {
-        "enabled": true,
+        "enabled": false,
         "imageCount": 0,
         "submitTime": 4
       },
@@ -57,7 +57,7 @@
       {
         "type": "PushPlus",
         "enabled": true,
-        "token": "your_token"
+        "token": "826d5d4b02554f7d913676d42c749087"
       },
       {
         "type": "AnPush",
