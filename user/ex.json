@@ -1,0 +1,87 @@
+  {
+    "config": {
+      "user": {
+        "phone": "18912729605",
+        "password": "268468753688Xm"
+      },
+      "clockIn": {
+        "mode": "daily",
+        "location": {
+          "address": "江苏省 · 苏州市 · 吴江区 · 盛泽镇舜湖西路88号",
+          "latitude": "120.652589",
+          "longitude": "30.903315",
+          "province": "江苏省",
+          "city": "苏州市",
+          "area": "吴江区"
+        },
+        "imageCount": 0,
+        "description": [
+          "",
+          "",
+          ""
+        ],
+        "specialClockIn": false,
+        "customDays": [
+          1,
+          3,
+          5
+        ]
+      },
+      "reportSettings": {
+        "daily": {
+          "enabled": false,
+          "imageCount": 0
+        },
+        "weekly": {
+          "enabled": false,
+          "imageCount": 0,
+          "submitTime": 4
+        },
+        "monthly": {
+          "enabled": false,
+          "imageCount": 0,
+          "submitTime": 29
+        }
+      },
+      "ai": {
+        "model": "gpt-4o-mini",
+        "apikey": "sk-osdhgosdipghpsdgjiosfvinoips",
+        "apiUrl": "https://api.openai.com/"
+      },
+      "pushNotifications": [
+        {
+          "type": "Server",
+          "enabled": true,
+          "sendKey": "your_key"
+        },
+        {
+          "type": "PushPlus",
+          "enabled": true,
+          "token": "826d5d4b02554f7d913676d42c749087"
+        },
+        {
+          "type": "AnPush",
+          "enabled": true,
+          "token": "your_token",
+          "channel": "通道ID,多个用英文逗号隔开",
+          "to": "根据官方文档获取"
+        },
+        {
+          "type": "WxPusher",
+          "enabled": true,
+          "spt": "your_spt"
+        },
+        {
+          "type": "SMTP",
+          "enabled": true,
+          "host": "smtp服务地址",
+          "port": 465,
+          "username": "发件人邮箱",
+          "password": "smtp密码",
+          "from": "发件人名称",
+          "to": "收件人邮箱"
+        }
+      ],
+      "device": "{brand: TA J20, systemVersion: 17, Platform: Android, isPhysicalDevice: true, incremental: K23V10A}"
+    }
+  }
